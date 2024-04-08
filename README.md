@@ -41,7 +41,7 @@ const toasty = new Toasty({
 toasty.push({
         title: "Hold it!",
         content: "You do not have permission to do this action.",
-        status: "error",
+        style: "error",
     })
 ```
 
